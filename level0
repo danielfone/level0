@@ -18,3 +18,4 @@ output = contents.gsub(/[^ \n]+/) do |word|
   end
 end
 print output
+
