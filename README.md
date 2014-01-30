@@ -1,3 +1,9 @@
+## Solution
+
+Note: the only change required to pass this level is [this](https://github.com/danielfone/level0/commit/fef0cfcba371dc29d9f0fd1f7bc0e1c9e1161b38#diff-1)
+
+---
+
 # Level 0
 
 ## Usage
